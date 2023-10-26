@@ -1,0 +1,6 @@
+DEBUG:root:Logging started.
+DEBUG:root:Logging started.
+ERROR:root:logging an error
+DEBUG:root:Logging started.
+ERROR:root:logging an error
+DEBUG:__main__:Here is my_logger at work
